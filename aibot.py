@@ -8,7 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-openai.api_key = "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"
+openai.api_key = ""
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
