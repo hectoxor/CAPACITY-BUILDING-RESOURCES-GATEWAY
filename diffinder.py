@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def diftxt(filename):
     #open text file in read mode
